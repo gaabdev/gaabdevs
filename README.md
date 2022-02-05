@@ -1,5 +1,5 @@
-## <h2 style="font-family: verdana">Hey guys, my name is <em>Gaab</em>, nice to meet you!</h2>
-<h3><em>I am Web Programer</em></h3>
+## <h2 style="font-family: verdana">Olá pessoal, meu nome é <em>Gaab</em>, sejam bem vindos(as)!</h2>
+<h3><em>Programador WEb</em></h3>
 
 ## <div align="center">
   <a href="https://github.com/gaabdevs">
